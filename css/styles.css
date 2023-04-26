@@ -5,7 +5,6 @@
 body {
   background-color: rgb(221, 178, 178);
   width: 100%;
-  position: fixed;
 }
 
 .app {
@@ -52,7 +51,18 @@ nav a {
   text-align: center;
 }
 
-.logo {
+.logo1 {
   padding-left: 35%;
   position: absolute;
+  top: -5px;
+}
+
+.logo2 {
+  padding-left: 35%;
+  position: absolute;
+  top: -5px;
+}
+
+.answer-button {
+  font-weight: 100;
 }
